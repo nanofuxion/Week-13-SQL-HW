@@ -10,4 +10,4 @@ CREATE TABLE products (
     price DECIMAL(10,2) NOT NULL,
     stock INT NOT NULL,
     PRIMARY KEY(id)
-);
+); 
