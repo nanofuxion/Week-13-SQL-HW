@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An amamzon example using MySQL and Node frome the termial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanofuxion/Week-13-SQL-HW.git"
+  },
+  "author": "Nanofuxion (Jordan Miller)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanofuxion/Week-13-SQL-HW/issues"
+  },
+  "homepage": "https://github.com/nanofuxion/Week-13-SQL-HW#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "dotenv": "^8.0.0",
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  }
+}
