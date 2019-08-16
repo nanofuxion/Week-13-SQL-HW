@@ -17,4 +17,4 @@ connection = mysql.createConnection({
 }
 
 // Export connection.
-module.exports = connection;
+module.exports = connection; 
